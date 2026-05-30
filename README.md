@@ -14,27 +14,35 @@ SOFTWARE REQUIRED:
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtained. 
 
 ## CIRCUIT DIAGRAM: Inverting amplifier: 
-<img width="1174" height="905" alt="image" src="https://github.com/user-attachments/assets/91cb3db7-9d05-4fce-8bc9-21782ff92282" />
+
+<img width="1919" height="1199" alt="Screenshot 2026-04-20 104821" src="https://github.com/user-attachments/assets/1ba21eb7-4ddc-4bd3-a6ea-c2cd8f442b37" />
+
 
 ## GRAPH: Inverting amplifier: 
-<img width="946" height="441" alt="image" src="https://github.com/user-attachments/assets/115711a9-32e5-47b5-8393-e0dd0bf90f55" />
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/43317d7e-bd28-44dd-a7aa-a878200e5c2e" />
 
 
 ## CIRCUIT DIAGRAM: Non inverting amplifier:
-<img width="932" height="609" alt="image" src="https://github.com/user-attachments/assets/c678c132-820c-4007-a4e1-60bb32484d2e" />
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/a287d3cd-be8b-428c-ae1d-6a51604cdc59" />
 
 
 ## GRAPH: Non inverting amplifier:
-<img width="961" height="437" alt="image" src="https://github.com/user-attachments/assets/62e9c6a5-3cd4-418a-9a17-5d8faf7d57b7" />
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/2f9a01fe-4841-4d3a-b05b-663188fc0a8d" />
 
 
 ## CIRCUIT DIAGRAM: Differential amplifier: 
-<img width="961" height="508" alt="image" src="https://github.com/user-attachments/assets/885fcd97-fa90-478b-b498-0dc64d8fb87f" />
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/608861d4-9c70-4bd1-8c3f-c8d0f4ceef4f" />
 
 
 ## GRAPH: Differential amplifier:
-<img width="773" height="379" alt="image" src="https://github.com/user-attachments/assets/b2261fb9-36ab-4650-b8e1-41589442fc53" />
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/dd30d2a8-bced-4f21-93a6-cf6da0412d69" />
 
 
 ## RESULT:
-Thus the LT Spice tool has been studied and non-inverting ,inverting,differential amplifier circuit is stimulated.
+Thus, the LT-SPICE tool has been studied and inverting, non- inverting and differential amplifiers circuit is simulated and output verified successfully.
+
